@@ -1,1 +1,3 @@
-console.log('Budget Tracker frontend placeholder');
+import './main'
+
+export {}

@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small customizations to match design */
+html,body,#root{height:100%}
+body{@apply bg-gradient-to-br from-[#1e58d7] to-[#1549c8] font-sans}
